@@ -1,6 +1,6 @@
 cask "proxybridge" do
-  version "1.8.1"
-  sha256 "a3586e7d1ca95ed17130d1ceca52e6eb56d769b573b9f6055300e4d0f81280be"
+  version "1.9.0"
+  sha256 "472f11bfde3717c425d9e0448168a47a80abf0068a84cadaf49df5aa8e281c84"
 
   url "https://github.com/fejxc/ProxyBridge/releases/download/v#{version}/ProxyBridge-#{version}-universal.dmg"
   name "ProxyBridge"
